@@ -1,0 +1,3 @@
+Decide where to order pizza from
+Decide what type of pizza to order
+Tip the driver
